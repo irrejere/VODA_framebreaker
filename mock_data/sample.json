@@ -1,0 +1,12 @@
+{
+  "keyword": "MZ세대",
+  "source": "news",
+  "analysis_period": "2026.01 - 2026.06",
+  "total_count": 1240,
+  "related_words": [
+    { "word": "갈등", "similarity": 0.89, "sentiment": "negative" },
+    { "word": "태도", "similarity": 0.82, "sentiment": "neutral" },
+    { "word": "문제", "similarity": 0.78, "sentiment": "negative" },
+    { "word": "공정", "similarity": 0.71, "sentiment": "positive" }
+  ]
+}
